@@ -1,3 +1,4 @@
+layout_spectrum: 0.8726775317918509
 typography_spectrum: 0.1978180455043912
 color:
   brandStrength: 0.8434762340039015
@@ -10,7 +11,4 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-layout_spectrum: 0.8726775317918509
 name: Ben Adkins Music
-title: Ben Adkins
-description: Drummer & Composer
